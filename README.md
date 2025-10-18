@@ -1,6 +1,6 @@
 <div align="center">
 
-![Game of Life Banner](https://via.placeholder.com/800x200/000000/FFFFFF?text=Game+of+Life+-+Final+Version)
+
 
 **Conway's Game of Life: Advanced Simulation & Analysis**  
 *Master's Project - Team Implementation*
@@ -10,7 +10,7 @@
 ## 🎮 Introduction to the Game of Life
 
 **Developed by:**  
-[Miguel Avilés](https://github.com/yourusername) *(Lead)*  
+[Miguel Avilés](https://github.com/yourusername) 
 [Sebastian Waruszynski](https://github.com/sebastianwaruszynski)  
 [Martina Cassina](https://github.com/martinacassina)  
 [Fredy Dairy](https://github.com/fredydairy)  
